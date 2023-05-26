@@ -1,0 +1,13 @@
+.texto{
+    color: hotpink;
+    text-align: center;
+    font-size: 25px;
+}
+.imagem{
+    width: 200px! important;
+    height: 200px! important;
+}
+.div-todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
